@@ -1,0 +1,579 @@
+@media all and (max-width: 1507px){
+	
+}
+
+@media all and (max-width: 1324px){
+	.nav ul{
+	margin-left: 0px;
+	}
+}
+@media all and (max-width: 1277px){
+	.nav label{
+	float: left;
+	margin: 20px 70px;
+	font-size: 25px;
+}
+.nav ul{
+	float: right;
+	margin-left: 0px;
+	margin-top: 15px;
+	padding: 15px 0;
+}
+.nav ul li{
+	display: inline-block;
+	list-style: none;
+	margin-top: 20px;
+	transform: skew(10deg);
+	
+}
+	
+.nav ul li a{
+	margin-left: 50px;
+	font-size: 13px;
+}
+}
+@media all and (max-width: 1163px){
+	.nav label{
+	float: left;
+	margin: 20px 30px;
+	font-size: 25px;
+}
+.nav ul li a{
+margin-left: 20px;
+}
+.affi-top{
+	float: left;
+	width: 30%;
+	margin-top: 20px;
+}
+.affi-top h1{
+	margin-left: 13px;
+	font-size: 30px;
+}
+.affi-top h3{
+	margin-left: 16px;
+	font-size: 44px;
+}
+
+.affi-top2 p{
+	font-size: 17px;
+	width: 79%;
+	margin-left: 100px;
+}	
+}
+@media all and (max-width: 978px){
+	.plan-box-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	.plan-box .box{
+	width: 75% auto;
+	margin-left: 10px auto;
+	}
+}
+@media all and (max-width: 940px){
+	.header-area{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: none;
+}
+.header-area .middle-area{
+	width: 100%;
+	margin-left: 0px;;
+}
+.top{
+	width: 100%;
+	float: none;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+h2{
+	font-size: 20px;
+	margin-left:10px;
+	float: none;
+	color: #3F51B5;
+	margin-top: 10px;
+}
+.top1{
+	width: 100%;
+	font-size: 15px;
+	float: none;
+	margin-left: 5px;
+		
+}
+.box1{
+	width: 50%;
+	height: 80px;
+	margin-top: 450px;
+}
+.header-area{
+	height: 200px;
+}
+.container{
+	width: 120%;
+}	
+.plan-box-area .middle-area{
+	width: 100%;
+	margin-left: 10px;
+}
+.plan-box .box{
+margin-left: 25px;
+}
+.nav-area .middle-area{
+	width: 100%;
+	margin-left: 15px;
+}
+.nav{
+	width: 100%;
+	transform: skew(0deg);
+}
+.nav label{
+	margin-left: auto;
+}
+.nav-area ul{
+	display: none;
+	margin-top: 70px;
+	width: 100%;
+	margin-left: 1px;
+}
+.nav-area ul li{
+	display: block;
+	transform: skew(10deg);
+	border-bottom: 1px solid #4D6F6F;
+}
+.nav-area ul li a{
+	font-size: 25px;
+	transform: skew(10deg);
+}
+.nav-area .checkbtn{
+	display: block;
+	transform: skew(0deg);
+}
+.nav-area .contact-area{
+	display: none;
+}
+.label-area .middle-area{
+	width: 100%;
+	margin-left: 10px auto;
+}
+.invest-area{
+	width: 100%;
+	float: none;
+	margin-top: 10px;
+}
+.invest-area p{
+	font-size: 17px;
+	margin-left: 10px;
+	width: auto;
+}
+.label-box{
+	width: 100%;
+	float: none;
+	margin-top: 55px;
+	height: 500px;
+}
+
+}	
+@media all and (max-width: 868px){
+	.running-area .box2 .sub-box{
+		width: 100% auto;
+		margin-left: 50px auto;
+	}
+	.plan-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	.plan-log{
+	border-right: none;
+	float: none;
+	}
+	.plan-cont{
+	width: 80%;
+	float: none;
+	}	
+	.plan-box-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	.plan-box .box{
+	width: 75% auto;
+	margin-left: 100px auto;
+	}
+	/* running area */
+	.running-area{
+
+	height: 780px;
+	}
+	
+	.box1{
+	width: 100%;
+	height: 60px;
+	float: none;
+	margin-top: 20px;
+	}
+	.box2{
+	width: 100%;
+	height: 550px;
+	float: none;
+	margin-top: 80px;
+	overflow: hidden;
+	}
+	.nav{
+		transform: skew(0deg);
+	}
+	.nav ul{
+	float: none;
+	}
+	.nav ul li{
+	display: block;
+	}
+	.nav ul li a{
+	margin-left: 0px;
+	}
+	.nav label{
+	float: none;
+	}
+	
+	/* affi area */
+	.affi-area .middle-area{
+	width: 100%;
+	margin-left: 10px;
+	}
+	.affi-top{
+	float: none;
+	width: 100%;
+	margin-top: 20px;
+	}
+	.affi-top2{
+	width: 100%;
+	float: none;
+	margin-top: 20px;
+	}
+	.affi-top2 p{
+	margin-left: 0px;
+	font-size: 15px;
+	}
+	.affi-top h1{
+	color: black;
+	font-family: Times New Roman;
+	letter-spacing: 1px;
+	margin-left: 0px;
+	font-size: 35px;
+}
+	.affi-top h3{
+	font-family: Times New Roman;
+	letter-spacing: 1px;
+	margin-left: 0px;
+	color: #0CB5BB;
+	font-size: 40px;
+	font-weight: bold;
+}
+/* label area */
+.label-area .middle-area{
+	width: 100%;
+	margin-left: 15px;
+}
+.invest-area{
+	width: 100%;
+	float: none;
+	margin-top: 10px;
+}
+.invest-area p{
+	font-size: 17px;
+	margin-left: 10px;
+	width: auto;
+}
+.label-box{
+	width: 100%;
+	float: none;
+	margin-top: 55px;
+	height: 570px;
+	margin-left: 0px;
+}
+
+}
+@media all and (max-width: 840px){
+	.plan-box .box{
+	width: 100%;
+	margin-left: 10px;
+	}
+}
+@media all and (max-width: 766px){
+	.box1{
+	width: 100%;
+	height: 70px;
+	margin-top: 180px;
+	float: none;
+}
+.box2{
+	width: 100%;
+	height: 550px;
+	float: left;
+	margin-top: 80px;
+	overflow: hidden;
+}
+ .header-area{
+	height: 300px;
+ }
+ .top{
+	width: 100%;
+	float: none;
+	font-size: 15px;
+ }
+ .top1{
+ 	width: 100%;
+	float: none;
+	font-size: 15px;
+	margin-left: none;
+ }
+ h2{
+	font-size: 18px;
+	margin-left:0px;
+    float: none;
+ }
+ .plan-box-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	.plan-box .box{
+	width: 100%;
+	margin-left: 5px;
+	}
+	.running-area .middle-area{
+	width: 90%;
+	margin-left: 35px;
+}
+.wel-area .middle-area{
+	width: 100%;
+	margin-left: 10px;
+	}
+	.log{
+	width: 100%;
+	float: none;
+	}
+	.cont{
+	width: 100%;
+	float: none;
+	border-left: none;
+	margin-left: 0px;
+	}
+	/* deposit area */
+	.container-fluid{
+	margin-left: 10px;
+	}
+	.deposit-area .box{
+	width: 100%;
+	background: #094042;
+	float: none;
+	margin-left: 0px;
+	}
+	/* cal area */
+	.search-area .box h1{
+	width: auto%;
+	margin-left: 10px;
+	
+	}
+	.search-area .box input{
+	width: 80%;
+	margin-left: 2px;
+	}
+	/* footer area */
+	.footer-area .middle-area{
+	width: 100%;
+	margin-left: 70px;
+	overflow: hidden;
+}
+.social-link{
+	width: 80%;
+	background: #0CB5BB;
+	height: 150px;
+	overflow: hidden;
+	clip-path: polygon(0% 0%,50% 100%,100% 0%,70% 0%,70% 0%);
+}
+.social-link .box{
+	margin-left: 215px;
+	margin-top: 40px;
+}
+.money-trans{
+	width: 80%;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+.contact-area .box{
+	width: 100%;
+	float: none;
+	margin-left: 5px;
+	height: 200px;
+	margin-top: 50px;
+	margin-right: 10px;
+}
+}
+@media all and (max-width: 349px){
+	.header-area{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: none;}
+
+.header-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+}
+.top{
+	width: 100%;
+	float: none;
+	font-size: 11px;
+	margin-top: 10px;
+	margin-left: 10px auto;
+}
+h2{
+	font-size: 20px;
+	margin-left:10px;
+	float: none;
+	color: #3F51B5;
+	margin-top: 10px;
+}
+.top1{
+	width: 100% auto;
+	font-size: 11px;
+	float: none;
+	margin-left: 5px auto;
+		
+}
+	.plan-box-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	.plan-box .box{
+	width: 100%;
+	margin-left: 25px;
+	}
+	.running-area .middle-area{
+	width: 90%;
+	margin-left: 35px;
+}
+	.wel-area .middle-area{
+	width: 100%;
+	margin-left: 10px;
+	}
+	.log{
+	width: 100%;
+	float: none;
+	}
+	.cont{
+	width: 67%;
+	float: none;
+	border-left: none;
+	margin-left: 0px;
+	}
+	/* deposit area */
+	.deposit-area .box{
+	width: 100%;
+	float: none;
+	margin-left: 0px;
+	}
+	.deposit-area .middle-area{
+	width: 100%;
+	margin-left: 0px;
+	}
+	/* search area */
+	.search-area .box h1{
+	width: 90%;
+	margin-left: 10px;
+	
+	}
+	.search-area .box input{
+	width: auto;
+	margin-left: 1px;
+	}
+	/* cal area */
+	.cal-area .cal-box{
+	width: 100%;
+	height: auto;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+	.cal-area .middle-area{
+		width: 100%;
+		margin-left: 0px;
+	}
+.cal-area .cal-box1{
+	width: 100%;
+	height: 100vh;
+	margin-top: 0px;
+}
+.cal-area .cal-box1 .box{
+	width: 100%;
+	height: 50px;
+	margin-top: 0px;
+}
+	.cal-area .cal-box1 .box label{
+	float: none;
+	width: 90%;
+	margin-left: 0px;
+	font-size: 18px;
+	border: 1px dashed #fff;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.cal-area .cal-box1 .box input{
+	float: none;
+	width: 90%;
+	margin-left: 5px;
+	padding-left: 15px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.cal-area .cal-box1 .box h3{
+	float: none;
+	width: 90%;
+	margin-left: 30px;
+}
+.cal-area .cal-box1 .box select{
+	float: none;
+	width: 90%;
+	margin-left: 30px;
+}
+/* footer area */
+.footer-area .middle-area{
+	width: 100%;
+	margin-left: 30px;
+	overflow: hidden;
+}
+.social-link{
+	width: 80%;
+	background: #0CB5BB;
+	height: 150px;
+	overflow: hidden;
+	clip-path: polygon(0% 0%,50% 100%,100% 0%,70% 0%,70% 0%);
+}
+.social-link .box{
+	margin-left: 55px;
+	margin-top: 30px;
+}
+.social-link .box i{
+	float: left;
+	margin-left: 20px;
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border-radius: 50%;
+	font-size: 20px;
+	padding: 10px;
+}
+.money-trans{
+	width: 80%;
+	margin-left: 35px;
+	margin-top: 50px;
+}
+.contact-area .box{
+	width: 100%;
+	float: none;
+	margin-left: 5px;
+	height: 200px;
+	margin-top: 50px;
+	margin-right: 10px;
+}
+}
