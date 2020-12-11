@@ -450,6 +450,9 @@ h2{
 	width: 100%;
 	margin-left: 25px;
 	}
+	.running-area{
+		height: 950px;
+	}
 	.running-area .middle-area{
 	width: 90%;
 	margin-left: 35px;
@@ -481,12 +484,17 @@ h2{
 	/* search area */
 	.search-area .box h1{
 	width: 90%;
-	margin-left: 10px;
+	margin-left: 5px;
 	
 	}
 	.search-area .box input{
 	width: auto;
 	margin-left: 1px;
+	}
+	.search-area .box button{
+		font-size: 15px;
+		padding-top: 17px;
+		padding-bottom: 19px;
 	}
 	/* cal area */
 	.cal-area .cal-box{
@@ -501,8 +509,8 @@ h2{
 	}
 .cal-area .cal-box1{
 	width: 100%;
-	height: 100vh;
-	margin-top: 0px;
+	height: 1200px;
+	margin-top: 20px;
 }
 .cal-area .cal-box1 .box{
 	width: 100%;
@@ -549,7 +557,6 @@ h2{
 	background: #0CB5BB;
 	height: 150px;
 	overflow: hidden;
-	clip-path: polygon(0% 0%,50% 100%,100% 0%,70% 0%,70% 0%);
 }
 .social-link .box{
 	margin-left: 55px;
