@@ -482,6 +482,10 @@ h2{
 	margin-left: 0px;
 	}
 	/* search area */
+	.search-area .middle-area{
+		width: 100%;
+		margin-left: 17px;
+	}
 	.search-area .box h1{
 	width: 90%;
 	margin-left: 5px;
