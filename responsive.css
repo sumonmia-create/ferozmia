@@ -488,12 +488,12 @@ h2{
 	}
 	.search-area .box h1{
 	width: 90%;
-	margin-left: 5px;
+	margin-left: 15px;
 	
 	}
 	.search-area .box input{
-	width: auto;
-	margin-left: 1px;
+	width: 200px;
+	margin-left: 10px;
 	}
 	.search-area .box button{
 		font-size: 15px;
